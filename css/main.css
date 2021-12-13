@@ -1,0 +1,410 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	overflow-x: hidden;
+}
+
+header{
+	background: url("../img/bike1.png") no-repeat center top / cover;
+	padding-bottom: 400px;
+}
+
+.container{
+	width: 1100px;
+	margin: 0 auto;
+} 
+
+.logo{
+	float: left;
+	margin: 0;
+	padding-top: 46px;
+	width: 161px;
+	height: 65px;
+}
+
+input{
+	margin-top: 48px;
+	height: 30px;
+	width: 400px; 
+	border-radius: 15.5px;
+	border: none;
+	outline: none;
+}
+ 
+.search-box a{
+	text-decoration: none;
+	color: black;
+}
+
+.search-box{
+	display: inline;
+	margin-left: 270px;
+}
+
+.menu{
+	padding-top: 68px;
+	height: 25px;
+	width: 26px;
+	float: right;
+}
+
+.cart{
+	padding-left: 140px;
+	padding-top: 68px;
+	height: 25px;
+	width: 26px;
+}
+
+.offer{
+	font-family: Arial, sans-serif;
+	padding-top: 230px;
+	color: #fff;
+}
+
+.offer p{
+	text-transform: uppercase;
+	font-size: 24px;
+	font-style: small;
+}
+
+.offer h1{
+	padding: 0;
+	font-size: 40px;
+	font-style: bold;
+	margin-bottom: 25px;
+}
+
+.btn{
+	background-color: black;
+	height: 41px;
+	width: 206px;
+	padding-top: 25px;
+	text-align: center;
+}
+
+.btn a{
+	text-decoration: none;
+	color: #fff;
+	text-transform: uppercase;
+	font-style: bold; 
+}
+
+.products{
+	background: url(../img/vector1.svg) no-repeat center top / cover;
+	padding-bottom: 120px;
+}
+
+.h1{
+	padding-left: 140px;
+	padding-top: 120px;
+	margin: 0; 
+	font-size: 62px;
+} 
+
+.titl{
+	padding-left: 30px;
+	padding-top: 150px;
+	margin: 0; 
+	font-size: 62px;
+	padding-bottom: 30px;
+}
+
+/*######################*/
+
+td{
+	background: #000;
+}
+ 
+.box1{
+	color: #fff;
+	padding-left: 248px;
+	padding-top: 53px;
+	text-transform: uppercase;
+	margin: 0;
+}
+
+.box01{
+	color: #fff;
+	padding-left: 400px;
+	padding-bottom: 150px;
+	padding-top: 10px;
+	margin: 0;
+}
+
+.tab{
+	padding-top: 30px;
+	padding-bottom: 21px;
+	padding-left: 67px;
+	padding-right: 67px;
+}
+
+table{
+	border-spacing: 30px;
+	margin: auto;
+	width: 960px;
+	height: 450px;
+}
+
+
+.big{
+	height: 450px;
+	width: 746px;
+}
+
+.small{
+	height: 210px;
+	width: 243px;
+}
+
+.h3{
+	color: #fff;
+	padding-bottom: 30px;
+	margin: 0;
+	text-align: center;
+}
+
+.bike{
+	height: 269px;
+	width: 506px;
+	padding-right: 240px;
+	width: 506px;
+	height: 269px;
+} 
+
+.street{
+    background: #F2F2F2;
+    height: 275px;
+	width: 1350px;
+}
+
+.street p{
+	height: 154px;
+	width: 1200px;
+	margin-top: -5px;
+	padding-top: 50px;
+	padding-left: 65px;
+	padding-right: 65px;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	line-height: 31px;
+	
+}
+
+p span{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.its{
+	background: url(../img/vector2.svg) no-repeat center top / cover;
+	padding-top: 10px;
+}
+
+.it{
+	height: 46px;
+	margin-top: 83px;
+	text-align: center;
+	padding-bottom: 63px;			
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 46px;
+}
+
+.support{
+	margin-left: 155px;
+}
+
+.frame{
+	margin-left: 250px;
+}
+
+.chain{
+	margin-left: 250px;
+}
+
+.sports{
+	margin-top: -15px;
+	display: flex;
+	height: 267px; 
+	text-align: center;
+	padding-bottom: 170px;
+} 
+
+.sports div{
+	margin-left: 81px; 
+	background: #F2F2F2;
+}
+
+.sports h3{
+	height: 30px;
+    width: 299px;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 31px;
+	padding-top: 57px;
+
+}
+
+.sports p{
+	font-size: 18px;
+	line-height: 23px;
+} 
+
+.new{
+    text-align: center;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 60px;
+	padding-bottom: 63px;
+}
+
+.left1{
+	margin-left: -65px;
+	margin-bottom: -326px;
+}
+
+.right1{
+	margin-left: 1209px;
+	margin-bottom: -326px;
+}
+
+.news{
+	display: flex;
+}
+
+.news div{
+	margin-left: 35px;
+	background: #F2F2F2;
+}
+
+.news h3{
+	height: 62px;
+	width: 338px;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 31px;
+	text-align: center;
+}
+
+.news p{
+	height: 91px;
+    width: 338px;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 23px;
+	text-align: center; 
+}
+
+.btn2{
+	height: 50px;
+	width: 338px;
+	border: 3px solid black;
+	border-radius: 0px;
+	background: #F2F2F2;
+	text-transform: uppercase;
+}
+
+.butt{
+	background: #000;
+	color: #fff;
+}
+
+.btn2:hover{
+	background: #d6cdcd;
+}
+
+.butt:hover{
+	background: #111010;
+}
+
+.btn2:active{
+	background: #F2F2F2;
+}
+
+.butt:active{
+	background: #000;
+}
+
+.fot{
+	background: url(../img/Intersect.png) no-repeat center top / cover;
+}
+
+.mailing{
+	text-align: center;
+}
+
+.mailing h2{
+	padding-top: 299px;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 46px;
+	margin-bottom: 0;
+}
+
+.mailing input{
+	height: 30px;
+	width: 415px;
+	border-radius: 0px;
+	border: 3px solid black;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+.mailing button{
+	height: 45px;
+	width: 252px;
+	border-radius: 0px;
+	background: #000;
+	color: #fff;
+	text-transform: uppercase;
+	margin-bottom: 227px;
+}
+
+footer{
+	background: #151515;
+	color: #fff;
+}
+
+.fonav{
+	display: flex;
+	padding-top: 55px;
+    justify-content: space-between;
+}
+
+.logo2{
+	height: 65px;
+	width: 180px;
+}
+
+.foo1{
+
+}
+
+.foo1 h4{
+	padding-bottom: 15px;
+}
+
+.foo1 a{
+	color: #fff;
+	text-decoration: none;
+	line-height: 0.9em;
+}
+
+.net{
+	width: 48px;
+	height: 24px;
+}
+
+footer p{
+	padding-top: 100px;
+	text-align: center;
+	padding-bottom: 86px;
+	margin: 0;
+	font-size: 18px;
+	font-weight: 450;
+	line-height: 23px;
+	color: #484848;
+}
+
+	
